@@ -1,0 +1,78 @@
+body {
+    text-align: center;
+    margin: 0 auto
+}
+
+article {
+    margin-top: 5%;
+    width: 100%;
+    background: rgb(53, 50, 50)
+}
+
+.article-container {
+    margin-bottom: 3%;
+}
+
+.todo-h3 {
+    color: #fff
+}
+
+.first {
+    display: inline-block;
+    vertical-align: middle;
+    width: 40%;
+    color: #fff;
+    text-align: left;
+}
+
+.first p {
+    text-transform: capitalize;
+}
+
+.second {
+    display: inline-block;
+    vertical-align: middle;
+    width: 40%;
+    color: #fff;
+    text-align: right;
+}
+
+.container {
+    padding: 10px;
+    margin: 10px
+}
+
+input {
+    height: 30px;
+    width: 70%;
+    border: none;
+    padding-left: 20px
+}
+
+button {
+    background: rgb(62, 175, 240);
+    width: 20%;
+    margin-left: 2%;
+    height: 30px;
+    border: none;
+    color: #fff;
+    cursor: pointer
+}
+
+.form-submit-section {
+    background: rgb(19, 18, 18);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-radius: 4px;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto
+}
+
+.form-submit-section p {
+    color: #fff
+}
+
+.deleteItem {
+    background: rgb(246, 41, 41)
+}
