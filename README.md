@@ -2,6 +2,8 @@
 
 A basic todo app for javascript beginners. Built with several javascript concepts and hooks to help beginners start their programming journey.
 
+![alt text](https://github.com/[imohh]/[TodoApp]/blob/[master]/image.jpg?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
