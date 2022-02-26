@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic todo app for javascript beginners. Built with several javascript concepts and hooks to help beginners start their programming journey.
 
 ## Available Scripts
 
