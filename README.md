@@ -5,6 +5,10 @@ Hosted on vercel. [live project](https://todo-app-phi-self.vercel.app/)
 
 ![alt text](https://github.com/imohh/TodoApp/blob/master/src/todo.png?raw=true)
 
+There are no dependencies to install. Just Npm start and you are good to go.
+
+Don't forget to give my project a star if it was helpful. Cheers
+
 ## Available Scripts
 
 In the project directory, you can run:
