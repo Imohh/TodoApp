@@ -3,7 +3,10 @@
 A basic todo app for javascript beginners. Built with several javascript concepts and hooks to help beginners start their programming journey.
 Hosted on vercel. [live project](https://todo-app-phi-self.vercel.app/)
 
+Added a dark mode to the app with context.js
+
 ![alt text](https://github.com/imohh/TodoApp/blob/master/src/todo.png?raw=true)
+![alt text](https://github.com/imohh/TodoApp/blob/master/src/todo-light-mode.png?raw=true)
 
 There are no dependencies to install. Just Npm start and you are good to go.
 
