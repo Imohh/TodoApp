@@ -1,13 +1,20 @@
+import { useContext } from 'react'
 import './style.css'
+import Toggle from './Toggle'
+import { ThemeContext } from '../context/context'
 
 const TodoList = ({ items, deleteItem, editItem }) => {
+    // DARKMODE
+    const theme = useContext(ThemeContext)
+    const darkMode = theme.state.darkMode
+
     return(
         <>
             {items.map((item) => (
                 <article className="article" key={item.id}>
-                    <div className="article-container">
+                    <div className="article-container" style={{background: darkMode ? "rgb(221, 213, 213)" : "rgb(53, 50, 50)"}}>
                         <div className="first">
-                            <p className="">{item.title}</p>
+                            <p className="" style={{color: darkMode ? "#000" :"#fff"}}>{item.title}</p>
                         </div>
                         <div className="second">
                             <button onClick={() => editItem(item.id)}>Edit</button>
