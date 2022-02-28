@@ -108,3 +108,7 @@
         cursor: pointer;
     }
 }
+
+@media (max-width: 729px) {
+
+}
