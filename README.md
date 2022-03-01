@@ -1,7 +1,7 @@
 # Todo App
 
 A basic responsive todo app for javascript beginners. Built with several javascript concepts and hooks to help beginners start their programming journey.
-Hosted on vercel. [live project](https://todo-app-phi-self.vercel.app/)
+Hosted on vercel. [live project](https://todo-app-omega-ashy.vercel.app/)
 
 Added a dark mode to the app with context.js
 
