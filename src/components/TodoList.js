@@ -1,6 +1,5 @@
 import { useContext } from 'react'
 import './style.css'
-import Toggle from './Toggle'
 import { ThemeContext } from '../context/context'
 
 const TodoList = ({ items, deleteItem, editItem }) => {
